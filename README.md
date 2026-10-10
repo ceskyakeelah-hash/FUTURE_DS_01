@@ -126,9 +126,11 @@ FUTURE_DS_01
 ## 👩‍💻 Author
 
 **Cesky Fhulufhelo Nengudza**
+
 BSc Applied Mathematics, Walter Sisulu University
 
 Email: ceskyakeelah@gmail.com
+
 LinkedIn: [linkedin.com/in/cesky-nengudza-679bb4417](https://www.linkedin.com/in/cesky-nengudza-679bb4417)
 
 ---
