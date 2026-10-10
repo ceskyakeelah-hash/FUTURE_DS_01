@@ -1,17 +1,16 @@
-# FUTURE_DS_01
 # 📊 Superstore Sales Performance Dashboard
 
 ## 📌 Project Overview
 
-This project analyzes Superstore sales data to identify revenue trends, top-performing products, profitable categories, and regional sales performance. The dashboard was developed as part of the Future Interns Data Science & Analytics Internship (Task 1).
+This project analyses Superstore sales data to identify revenue trends, top-performing products, profitable categories and regional sales performance. The dashboard was developed as part of the Future Interns Data Science & Analytics Internship (Task 1).
 
-The objective is to transform raw sales data into actionable business insights that support data-driven decision-making.
+The objective is to turn raw sales data into clear business insights that support data-driven decision-making.
 
 ---
 
 ## 🎯 Project Objectives
 
-- Analyze overall sales and profit performance
+- Analyse overall sales and profit performance
 - Identify top-performing product categories
 - Evaluate regional sales performance
 - Track monthly sales trends
@@ -24,8 +23,8 @@ The objective is to transform raw sales data into actionable business insights t
 
 - Power BI
 - Microsoft Excel
-- Data Cleaning & Transformation
-- DAX Measures
+- Data cleaning and transformation
+- DAX measures
 
 ---
 
@@ -41,23 +40,29 @@ The objective is to transform raw sales data into actionable business insights t
 ## 📊 Dashboard Features
 
 ### Sales Trend Analysis
-- Monthly sales performance visualization
+
+- Monthly sales performance visualisation
 - Identification of peak and low sales periods
 
 ### Category Performance
+
 - Total sales by category
-- Sales vs Profit comparison
+- Sales vs profit comparison
 
 ### Regional Analysis
+
 - Sales performance across regions
 - Best and worst performing regions
 
 ### Product Analysis
+
 - Top-selling products
 - Most profitable sub-categories
 
 ### Interactive Filters
-Users can filter data by:
+
+Users can filter the data by:
+
 - Segment
 - Region
 - Ship Mode
@@ -67,28 +72,26 @@ Users can filter data by:
 
 ## 🔍 Key Insights
 
-- Total Sales reached **2.30M** with **286.4K Profit**.
+- Total sales reached **2.30M** with **286.4K** profit.
 - **Technology** is the highest-performing category in terms of sales and profit.
-- **West Region** generated the highest sales.
-- **South Region** recorded the lowest sales performance.
-- Sales peaked during **November**, indicating strong seasonal demand.
+- The **West** region generated the highest sales.
+- The **South** region recorded the lowest sales.
+- Sales peaked in **November**, indicating strong seasonal demand.
 - **Phones** emerged as the most profitable sub-category.
 
 ---
 
 ## 💡 Recommendations
 
-1. Increase investment in Technology products due to strong profitability.
-2. Investigate factors affecting Furniture profitability.
-3. Implement targeted marketing campaigns in the South Region.
+1. Increase investment in Technology products because of their strong profitability.
+2. Investigate the factors affecting Furniture profitability.
+3. Run targeted marketing campaigns in the South region.
 4. Maintain inventory levels for high-demand products.
-5. Launch promotional campaigns before November to maximize seasonal sales.
+5. Launch promotional campaigns before November to maximise seasonal sales.
 
 ---
 
 ## 📷 Dashboard Preview
-
-(Add a screenshot of your dashboard here)
 
 ![Dashboard Screenshot](dashboard.png)
 
@@ -99,38 +102,34 @@ Users can filter data by:
 ```
 FUTURE_DS_01
 │
-├── Dataset
-├── PowerBI Dashboard (.pbix)
-├── Dashboard Screenshot
 ├── README.md
-└── Project Documentation
+├── Sample - Superstore_.xlsx   (dataset)
+├── Superstore.pbix             (Power BI dashboard)
+└── dashboard.png               (dashboard screenshot)
 ```
 
 ---
 
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-- KPI Analysis
-- Dashboard Design
-- Insight Generation
+- Data cleaning
+- Data visualisation
+- Business analytics
+- KPI analysis
+- Dashboard design
+- Insight generation
 - Power BI
 - DAX
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 **Cesky Fhulufhelo Nengudza**
-
-BSc Applied Mathematics  
-Walter Sisulu University
+BSc Applied Mathematics, Walter Sisulu University
 
 Email: ceskyakeelah@gmail.com
-
-LinkedIn: www.linkedin.com/in/cesky-nengudza
+LinkedIn: [linkedin.com/in/cesky-nengudza-679bb4417](https://www.linkedin.com/in/cesky-nengudza-679bb4417)
 
 ---
 
@@ -138,5 +137,4 @@ LinkedIn: www.linkedin.com/in/cesky-nengudza
 
 Task 1: Business Sales Performance Analytics
 
-This project demonstrates the application of data analytics techniques to solve real-world business problems through interactive dashboard development and insight generation.
-<img width="1288" height="728" alt="image" src="https://github.com/user-attachments/assets/01078712-6fee-4662-99b5-0ddc85b049f2" />
+This project demonstrates how data analytics techniques can be applied to business problems through interactive dashboard development and insight generation.
